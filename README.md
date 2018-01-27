@@ -61,7 +61,7 @@ Today (2018-01-26) the code is under active development in alpha stage, i.e. doe
 |chip_id|Not functional|
 |flash_id|In progress|
 |read_flash|Not functional|
-|erase_flash||Not functional|
+|erase_flash|Not functional|
 
 ## Where can I find out more about ribanEspTool
 ribanEspTool source code, issue tracker and wiki are hosted on [github](https://github.com/riban-bw/ribanEspTool). Please reporte issues and feature requests via the [issue tracker](https://github.com/riban-bw/ribanEspTool/issues). Enhancements and bug fixes may be submitted by means of git pull requests.
