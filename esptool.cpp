@@ -307,7 +307,7 @@ void ShowHelp(COMMAND nCommand)
     //            << "\tdump_mem \t\t???" << endl
     //            << "\tread_mem \t\t???" << endl
     //        << "\twrite_mem \t\tWrite image to ESP8266 memory" << endl
-            << "\treset \t\tHardware reset using RTS/DTR" << endl
+            << "\treset \t\t\tHardware reset using RTS/DTR" << endl
             << "\twrite_flash \t\tWrite image to flash memory" << endl
             << "\trun \t\t\tStart ESP8266 program" << endl
     //            << "\timage_info ???" << endl
